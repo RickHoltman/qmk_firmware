@@ -1,0 +1,2 @@
+#define WS2812_PIN PC0
+#define RGB_LED_COUNT 26
