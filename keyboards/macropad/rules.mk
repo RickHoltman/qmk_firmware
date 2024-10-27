@@ -1,2 +1,0 @@
-RGBLIGHT_ENABLE = yes
-BOOTLOADER = stm32duino
