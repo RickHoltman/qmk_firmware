@@ -1,0 +1,15 @@
+{
+    "manufacturer": "Rick Holtman",
+    "keyboard_name": "macropad",
+    "maintainer": "Rick Holtman",
+    "usb": {
+        "vid": "0x4F53"
+    },
+    "matrix_pins": {
+        "cols": ["C5", "C4", "A7", "A6"],
+        "rows": ["A4", "A3", "A2", "A1", "A0"]
+    },
+    "diode_direction": "COL2ROW",
+    "processor": "STM32F103",
+    "board": "STM32_F103_STM32DUINO"
+}
